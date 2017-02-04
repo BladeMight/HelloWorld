@@ -45,7 +45,7 @@ print("Hello World!");
 - PHP
 - etc.
 
-## Markdown/HTML controls
+## Markdown/HTML
 
 ```markdown
 Syntax highlighted code block
