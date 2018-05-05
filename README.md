@@ -15,10 +15,22 @@ class Program {
 #### C++
 
 ```cpp
-#include<sthio.h>
+#include <iostream>
+using namespace std;
 
 int main() {
-    prinf("Hello World!\n");
+    cout << "Hello World!" << endl;
+    return 0;
+}
+```
+
+#### C
+
+```cpp
+#include <stdio.h>
+
+int main() {
+    printf("Hello World!\n");
     return 0;
 }
 ```
