@@ -1,6 +1,6 @@
 ## HelloWorld Repository
 
-#### C#
+#### C\#
 
 ```cs
 using System;
